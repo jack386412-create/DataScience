@@ -1,0 +1,8 @@
+konlpy
+pandas
+matplotlib
+seaborn
+wordcloud
+jupyter
+jupytext
+install-jdk
