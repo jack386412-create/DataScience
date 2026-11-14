@@ -6,3 +6,6 @@ __pycache__/
 
 # 저작권 있는 기사 원문 (로컬에만 보관)
 text-information-processing/news.txt
+
+# Kaggle Titanic 데이터 (재배포 제한 — kaggle.com/c/titanic 에서 직접 다운로드)
+python-data-processing/*.csv
